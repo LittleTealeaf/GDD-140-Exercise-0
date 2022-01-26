@@ -5,7 +5,7 @@ function setup() {
 function draw() {
   background(100,100,200);
   //Followed some hunches and figured out the syntax 
-  for(var i = 0; i < 10; i++) {
+  for(var i = 0; i < 12; i++) {
     rect(20 * i,20 * i,30 * i,i * 30,i);
   }
 }
