@@ -1,5 +1,4 @@
 # GDD-140-Template
 
-[**View Deployment**]()
+[**View Deployment**](https://littletealeaf.github.io/GDD-140-Exercise-0/)
 
-Template repository for p5.js projects
